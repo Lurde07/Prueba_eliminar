@@ -1,0 +1,10 @@
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.csproj.AssemblyReference.cache
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.Form1.resources
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.Properties.Resources.resources
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.csproj.GenerateResource.cache
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.csproj.CoreCompileInputs.cache
+C:\Users\5to Bachillerato A\source\repos\funcion_if\bin\Debug\funcion_if.exe.config
+C:\Users\5to Bachillerato A\source\repos\funcion_if\bin\Debug\funcion_if.exe
+C:\Users\5to Bachillerato A\source\repos\funcion_if\bin\Debug\funcion_if.pdb
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.exe
+C:\Users\5to Bachillerato A\source\repos\funcion_if\obj\Debug\funcion_if.pdb

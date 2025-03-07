@@ -1,0 +1,10 @@
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\bin\Debug\SaludosBotones.exe.config
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\bin\Debug\SaludosBotones.exe
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\bin\Debug\SaludosBotones.pdb
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.csproj.AssemblyReference.cache
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.Form1.resources
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.Properties.Resources.resources
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.csproj.GenerateResource.cache
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.csproj.CoreCompileInputs.cache
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.exe
+C:\Users\5to Bachillerato A\source\repos\SaludosBotones\obj\Debug\SaludosBotones.pdb

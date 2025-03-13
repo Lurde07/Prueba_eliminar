@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C9AD4D4-F3D0-4700-8D3F-14E83EECD656}</ProjectGuid>
+    <ProjectGuid>{3D890B1E-D0D1-4D28-8693-E3FFD8712A8F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Prueba123</RootNamespace>
-    <AssemblyName>Prueba123</AssemblyName>
+    <RootNamespace>EF_Lourdes_B1</RootNamespace>
+    <AssemblyName>EF_Lourdes_B1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
